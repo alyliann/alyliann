@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.IO Badge"/>
   </a>
 
+<br>
 
-### Currently
 Senior CS Major at [CUNY Hunter College](https://hunter.cuny.edu)
 <br>
 Computer Science Educator with [Kodely](https://www.kodely.io)
