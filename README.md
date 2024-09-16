@@ -15,7 +15,6 @@
 
 <br>
 
-<style>h2 { border-bottom: 0; } </style>
 Senior CS Major at [CUNY Hunter College](https://hunter.cuny.edu)
 <br>
 Computer Science Educator with [Kodely](https://www.kodely.io)
