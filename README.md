@@ -48,3 +48,9 @@ Data Science Fellow at [CUNY Tech Prep](https://cunytechprep.org)
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+- 🍓 My pronouns are **she/her**
+- 🎮 Aspiring Game Developer/Programmer
+- 🌸 I am currently learning Data Science and Database Management
+- 👾 Fan of Metroidvanias, RPGs, and Narrative Games
+- 📖 My most recently read book is **The Jasmine Throne by Tasha Suri**
