@@ -1,6 +1,6 @@
 ## Hey! I'm Alysa <img width="20" height="20" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXIxcTRzejE3aGtpNnV3bGZwM3c2NDJzaG5rZm00NDgyOHc3Y2NndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N9OrFzPqukYagVmCGk/giphy.webp">
 
-<img align="right" width="100" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1ZjlrcjJ3eXplOTVrNzljcHZ0M3lpb3h6N3B1ZmhwYXBsdnFyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp">
+<img align="right" width="150" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1ZjlrcjJ3eXplOTVrNzljcHZ0M3lpb3h6N3B1ZmhwYXBsdnFyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp">
 
 
 <!--LINK BADGES-->
