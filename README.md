@@ -2,6 +2,7 @@
 
 <img align="right" width="150" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1ZjlrcjJ3eXplOTVrNzljcHZ0M3lpb3h6N3B1ZmhwYXBsdnFyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp">
 
+
 <!--LINK BADGES-->
 <a href="https://www.linkedin.com/in/alysavega/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -38,19 +39,8 @@ Data Science Fellow at [CUNY Tech Prep](https://cunytechprep.org)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
-<!-- Organized and dependable senior at Hunter College specializing in Python and C++, web dev, and computer science education. Incredibly passionate about video game development and learning game engines on the side. My special interests include fantasy novels, metroidvanias, classical guitar, and running.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 - 🍓 My pronouns are **she/her**
 - 🎮 Aspiring Game Developer/Programmer
 - 🌸 I am currently learning Data Science and Database Management
-- 👾 Fan of Metroidvanias, RPGs, and Narrative Games
+- 👾 Fan of Metroidvanias, RPGs, and Narrative Games <img width="20" height="20" src="https://media.tenor.com/2ng0ZppvlSoAAAAi/samus-stride.gif">
 - 📖 My most recently read book is **The Jasmine Throne by Tasha Suri**
