@@ -46,5 +46,4 @@ Data Science Fellow at [CUNY Tech Prep](https://cunytechprep.org)
 - 📖 My most recently read book is **The Jasmine Throne by Tasha Suri**
 
 ***
-
 Feel free to take a look at my pinned repositories or message me on LinkedIn. Enjoy! <img width="20" height="20" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFnZW5ma2FtazV6cXI0engxcWs0bm90Mm1ncmNtaWhiMDJxczRjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dIWN7ncoTjRD1bIWGb/giphy.webp">
