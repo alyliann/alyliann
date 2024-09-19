@@ -26,12 +26,13 @@ Data Science Fellow at [CUNY Tech Prep](https://cunytechprep.org)
 ## More About Me <img width="20" height="20" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VtZm9sa2Yxa292NmY4OGpqOXJpNnEwc2ljMTJ3azR4eDcxaGVteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FyfdOcxW9Lp9lg55DN/giphy.webp">
 
 <!--SKILL BADGES-->
+<!--FROM https://github.com/inttter/md-badges?tab=readme-ov-file#-programming-languages-->
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
