@@ -44,7 +44,7 @@ Data Science Fellow at [CUNY Tech Prep](https://cunytechprep.org)
 - 🎮 Aspiring Game Developer/Programmer
 - 🌸 I am currently learning Data Science and Database Management
 - 👾 Fan of Metroidvanias, RPGs, and Narrative Games <img width="16" height="16" src="https://giffiles.alphacoders.com/124/12427.gif">
-- 📖 My most recently read book is **My Darling Dreadful Thing by Johanna van Veen**
+- 📖 My most recently read book is **_My Darling Dreadful Thing_ by Johanna van Veen**
 
 ***
 Feel free to take a look at my pinned repositories or message me on LinkedIn. Enjoy! <img width="20" height="20" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFnZW5ma2FtazV6cXI0engxcWs0bm90Mm1ncmNtaWhiMDJxczRjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dIWN7ncoTjRD1bIWGb/giphy.webp">
