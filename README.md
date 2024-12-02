@@ -41,9 +41,9 @@ Data Science Fellow at [CUNY Tech Prep](https://cunytechprep.org)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 - 🍓 My pronouns are **she/her**
-- 🎮 Aspiring Game Developer/Programmer
+- 🎮 Aspiring Game Developer/Programmer or SWE
 - 🌸 I am currently learning Data Science and Database Management
-- 👾 Fan of Metroidvanias, RPGs, and Narrative Games <img width="16" height="16" src="https://giffiles.alphacoders.com/124/12427.gif">
+- 👾 Fan of Metroidvanias, RPGs, and Survival Games <img width="16" height="16" src="https://giffiles.alphacoders.com/124/12427.gif">
 - 📖 My most recently read book is **_A Dark and Drowning Tide_ by Allison Saft**
 
 ***
