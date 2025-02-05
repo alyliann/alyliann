@@ -42,7 +42,7 @@ Data Science Fellow at [CUNY Tech Prep](https://cunytechprep.org)
 
 - 🍓 My pronouns are **she/her**
 - 🎮 Aspiring Game Developer/Programmer or SWE
-- 🌸 I am currently learning Data Science and Database Management
+- 🌸 I am currently learning UNIX and bash, and VR in Unity
 - 👾 Fan of Metroidvanias, RPGs, and Survival Games <img width="16" height="16" src="https://giffiles.alphacoders.com/124/12427.gif">
 - 🎥 My favorite film is **Christopher Nolan's _Interstellar_**
 
