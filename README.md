@@ -17,11 +17,11 @@
 <br>
 <br>
 
-Senior CS Major at [CUNY Hunter College](https://hunter.cuny.edu)
+BA in Computer Science from [CUNY Hunter College](https://hunter.cuny.edu)
+<br>
+Software Engineering Intern at [NYSCF](https://nyscf.org)
 <br>
 Computer Science Educator with [Kodely](https://www.kodely.io)
-<br>
-Data Science Fellow at [CUNY Tech Prep](https://cunytechprep.org)
 
 ## More About Me <img width="20" height="20" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VtZm9sa2Yxa292NmY4OGpqOXJpNnEwc2ljMTJ3azR4eDcxaGVteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FyfdOcxW9Lp9lg55DN/giphy.webp">
 
@@ -42,7 +42,7 @@ Data Science Fellow at [CUNY Tech Prep](https://cunytechprep.org)
 
 - 🍓 My pronouns are **she/her**
 - 🎮 Aspiring Game Developer/Programmer or SWE
-- 🌸 I am currently learning UNIX and bash, and VR development in Unity
+- 🌸 I am currently learning VR and 3D development in Unity
 - 👾 Fan of Metroidvanias, RPGs, and Survival Games <img width="16" height="16" src="https://giffiles.alphacoders.com/124/12427.gif">
 - 🎥 My favorite film is **Christopher Nolan's _Interstellar_**
 
