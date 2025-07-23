@@ -19,7 +19,7 @@
 
 BA in Computer Science from [CUNY Hunter College](https://hunter.cuny.edu)
 <br>
-Software Engineering Intern at [NYSCF](https://nyscf.org)
+Software Engineering Intern at [The New York Stem Cell Foundation](https://nyscf.org)
 <br>
 Computer Science Educator with [Kodely](https://www.kodely.io)
 
