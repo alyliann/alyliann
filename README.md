@@ -40,7 +40,6 @@ Computer Science Educator with [Kodely](https://www.kodely.io)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
-- 🍓 My pronouns are **she/her**
 - 💻 Aspiring Software Engineer
 - 💭 Interested in Game Development and UI/UX
 - 🧩 I am currently learning VR and 3D development in Unity
