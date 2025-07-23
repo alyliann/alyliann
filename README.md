@@ -41,8 +41,9 @@ Computer Science Educator with [Kodely](https://www.kodely.io)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 - 🍓 My pronouns are **she/her**
-- 🎮 Aspiring Software Engineer with an interest in GameDev
-- 🌸 I am currently learning VR and 3D development in Unity
+- 💻 Aspiring Software Engineer
+- 💭 Interested in Game Development and UI/UX
+- 🧩 I am currently learning VR and 3D development in Unity
 - 👾 Fan of Metroidvanias, RPGs, and Survival Games <img width="16" height="16" src="https://giffiles.alphacoders.com/124/12427.gif">
 - 🎥 My favorite film is **Christopher Nolan's _Interstellar_**
 
